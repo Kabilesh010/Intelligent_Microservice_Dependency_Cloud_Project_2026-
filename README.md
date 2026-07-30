@@ -1,3 +1,0 @@
-# sample
-
-Starter repository.
